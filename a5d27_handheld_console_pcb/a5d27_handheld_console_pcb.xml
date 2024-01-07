@@ -1,0 +1,3466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/media/suya/playground/a5d27_handheld_console/a5d27_handheld_console_pcb/a5d27_handheld_console_pcb.kicad_sch</source>
+    <date>Sat 28 Oct 2023 12:32:05 PM KST</date>
+    <tool>Eeschema 7.0.8-7.0.8~ubuntu22.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>a5d27_handheld_console_pcb.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>1_BOARD.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>2_BOARD.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:CONN_MALE</footprint>
+      <libsource lib="a5d27_handheld_console" part="CONN_MALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="a5d27_handheld_console_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dfea76d-754b-4da4-abb8-b4b23e3769f9</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:CONN_FEMALE</footprint>
+      <libsource lib="a5d27_handheld_console" part="CONN_FEMALE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="a5d27_handheld_console_pcb.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a57eb3da-55c5-419d-8d44-e1408c0c026c</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>4u7</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>a12c4a20-7a64-4ce4-9843-b4da88118737</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4u7</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>13aa7625-0d36-4596-8543-38c17b70faa7</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4u7</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>e9e7ba93-d2d2-46a5-853d-385a764e4dfb</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>0d225659-90a8-423e-a36c-50e5c475f2fe</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>745ad03e-8ba6-460b-824e-a1f564e705cf</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>ca2dc131-5ca0-4646-974e-27f24ab30cf8</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>61e542a9-6b02-499e-afc2-51680b582a11</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>11a451b2-a24c-4cd8-920b-8a98ecb40cb4</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>d5ca8193-1cec-440d-a4a0-a36cf5cb4a2a</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>46c5b954-c330-4670-a316-26738ae87eec</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>dcf9cb9e-d591-4f44-a355-ed1367eec589</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>49d7e1ee-26ed-4ddc-82a3-a30d35434d5b</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>1a41d3a5-ccde-483e-a816-c055178cf8f3</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>46fbf0c1-9362-4453-aba5-f1ca418cc1bf</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>64542986-3655-4ea2-bacf-95d33c73191c</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>046280aa-fb78-407b-820a-e9aa0bb0cee0</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>93cbf5be-6314-4017-8528-e211a7de86c6</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>220n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>63fcae0d-3a51-494b-a58f-eb8455aa896c</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>0b9dbb7c-5015-4025-9c6b-9bebca8ce0e0</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>fe546bc2-9804-4dcb-a449-2702c4274fe3</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>4d59464f-87b8-4ab8-aa92-f9a0cd4e4329</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>461f13d2-8904-4983-8701-f033da456a34</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>4cea671b-21c6-41de-b527-809abc1d4989</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>2c67009e-6184-4054-8ac9-c4bfba46ed28</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>e18b9872-5ccb-4832-b8e5-255f87f8713b</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>RED</value>
+      <footprint>a5d27_handheld_console:LED_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="LED_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>e878dace-7263-402f-a161-47b944e25083</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>GREEN</value>
+      <footprint>a5d27_handheld_console:LED_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="LED_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>1f8803bf-45d5-4332-a36e-94ad34685991</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>YELLOW</value>
+      <footprint>a5d27_handheld_console:LED_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="LED_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>ad9c44fc-1c0c-461d-96d0-308b3a983b5e</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:USB_B</footprint>
+      <libsource lib="a5d27_handheld_console" part="USB_B" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>0a64393e-3167-4f2a-9daa-8387e6f95733</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>DM3AT</value>
+      <footprint>a5d27_handheld_console:HRS_DM3AT-SF-PEJM5</footprint>
+      <fields>
+        <field name="Availability">In Stock</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/DM3AT-SF-PEJM5/Hirose+Electric+Co+Ltd/view-part/?ref=eda</field>
+        <field name="Description">
+10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold
+</field>
+        <field name="MF">Hirose</field>
+        <field name="MP">DM3AT-SF-PEJM5</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1223877&amp;manufacturer=Hirose&amp;part_name=DM3AT-SF-PEJM5&amp;search_term=None</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/DM3AT-SF-PEJM5/Hirose+Electric+Co+Ltd/view-part/?ref=snap</field>
+      </fields>
+      <libsource lib="a5d27_handheld_console" part="DM3AT" description=""/>
+      <property name="MF" value="Hirose"/>
+      <property name="Purchase-URL" value="https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1223877&amp;manufacturer=Hirose&amp;part_name=DM3AT-SF-PEJM5&amp;search_term=None"/>
+      <property name="Package" value="None"/>
+      <property name="Price" value="None"/>
+      <property name="Check_prices" value="https://www.snapeda.com/parts/DM3AT-SF-PEJM5/Hirose+Electric+Co+Ltd/view-part/?ref=eda"/>
+      <property name="SnapEDA_Link" value="https://www.snapeda.com/parts/DM3AT-SF-PEJM5/Hirose+Electric+Co+Ltd/view-part/?ref=snap"/>
+      <property name="MP" value="DM3AT-SF-PEJM5"/>
+      <property name="Availability" value="In Stock"/>
+      <property name="Description" value="&#xA;10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold&#xA;"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>300e2a7a-d4ab-4b15-85b0-8c62e68d585b</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:DM3CS</footprint>
+      <libsource lib="a5d27_handheld_console" part="DM3CS" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>507f04c5-ef8b-4033-b495-245be64a3860</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:ER-TFT043-7</footprint>
+      <libsource lib="a5d27_handheld_console" part="ER-TFT043-7" description="62684-402100ALF"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="62684-402100ALF"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>2c746434-173a-46cb-9df2-0e99344a032e</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>22u</value>
+      <footprint>a5d27_handheld_console:NLCV25T-220K-PF</footprint>
+      <libsource lib="a5d27_handheld_console" part="NLCV25T-220K-PF" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>6e4bd24f-38fe-4e87-94c8-b68a650651c2</tstamps>
+    </comp>
+    <comp ref="PAD1">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>2b8d5fcf-41c1-422d-a363-53c78fbc544a</tstamps>
+    </comp>
+    <comp ref="PAD2">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>fd65b58d-f0ee-4b47-9435-49e57f02104d</tstamps>
+    </comp>
+    <comp ref="PAD3">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>a3db97c4-86da-45e2-9df5-203be804ad0e</tstamps>
+    </comp>
+    <comp ref="PAD4">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>ac2a0917-77f1-41d2-9711-eb7d0ae41cd4</tstamps>
+    </comp>
+    <comp ref="PAD5">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>343433ca-a53b-4ae8-bda2-24cd32e77a5d</tstamps>
+    </comp>
+    <comp ref="PAD6">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>ffa2afcb-afdb-4108-8eac-160708ce4567</tstamps>
+    </comp>
+    <comp ref="PAD7">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>f15e8a0f-274f-4d1c-be0e-9e4237a74af4</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:MMBT3904</footprint>
+      <libsource lib="a5d27_handheld_console" part="MMBT3904" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>2123300d-8239-455e-a900-95b86f39b1c7</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:MMBT3904</footprint>
+      <libsource lib="a5d27_handheld_console" part="MMBT3904" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>edae97b3-4c01-439a-b5fa-85a7becafd48</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:MMBT3904</footprint>
+      <libsource lib="a5d27_handheld_console" part="MMBT3904" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>44277fa9-99e0-49e1-9924-2a8b87bc5cca</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>29c95c78-64fd-4b86-acf3-b70bc061d10d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>34f3a844-d5dd-4397-af5a-51c567a6efc4</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>20c702f9-031f-439e-a3ba-d5a2777109e6</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>f7378252-19f1-4241-a00c-7337d6b8bce7</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>4505614d-bb99-4dd7-a00b-6bf4b4784786</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>15k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>fe21798b-c384-46b0-b880-b987c441dde6</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>b66d4a4b-2a09-46c2-a235-b5b343e6ae4e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>6b212a92-0b28-4baa-b4bf-2368f8fea9a3</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>DNP</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>33c20d84-dd7b-4bb7-856c-8dd2fe236eb8</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>DNP</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>3487301d-215e-4be0-90de-aace2f812084</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>8b071ecb-8269-4e6c-9e1e-7f8ddc6eead9</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>533a567d-fb5b-490d-bd85-70b3f919a434</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>377432f2-eebb-434f-8e00-36a9ed3b4abd</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>4fa029b5-5918-4fc2-a3fe-644083202465</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>71c9a961-2acb-488d-b266-5c1697c77a0d</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>f334acec-7065-4960-b56c-d080de6403a3</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>5.6</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>13361611-4356-4fd2-8bf0-3c8994703511</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>a6a6c27d-c139-4d19-b353-c214c5ab9d91</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>4b622cd9-a8d1-4f27-90e0-30f711616d93</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>d0b3a106-def0-43ee-9075-52cb53659b98</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>cc4c659d-6c03-40dd-b27a-19ffd3aa841d</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>d315750b-f205-4b0d-afb1-994b9f3ea579</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>22358971-4287-4a4e-8b2b-d2d39c2b188e</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>5ae8195f-1f06-4a5f-a1b2-3fa5b4b64308</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>94e6b45a-8576-4714-bc8d-4432b9d72d6e</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>764a6018-0d3d-41a9-925b-4646ce10eeb2</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>1324b6d8-38ac-4bc8-99e4-918afe8c2963</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>da6b3c35-e55f-4f8e-ad19-69b02f28cf49</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>73e92876-0757-4c9f-9e36-a688dcf7d332</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>1bdf834e-c6b8-4fd0-88dc-87909d1dd052</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>1584d56b-b6dd-4d27-a6de-1c31d7646598</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>68k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>152a5e12-b22b-4fc0-85d9-6be3dfedfee0</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>3160d7d0-1077-493b-8f42-f30626bfdad1</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>765279fa-248c-4ce5-a515-789f034bb1f5</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>dff6b44a-1700-4947-b31f-3909b8dceade</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>UP</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>02b9b27f-1683-4818-9c37-373fa3f47836</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>DOWN</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>3eb02bea-d22e-4578-b6f2-9c5103f37cfa</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>RIGHT</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>3c6025db-4cc9-45e6-9482-fc3be3ae2d1f</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>LEFT</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>9c354907-36ff-4c8c-b20e-46e0e643481c</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>X</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>f2bd7fc0-0ea7-4f8d-941a-ebcf52398844</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>Y</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>92c50642-e242-4176-8a72-a348e0aabf86</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>A</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>da434f13-9370-4f6b-b586-5d2430211157</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>B</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>0b340b5c-3c55-4643-9f09-3c6dff1f2ae1</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SYS_0</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>a638f502-3285-49a2-9157-1ce1255c8cd0</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SYS_1</value>
+      <footprint>a5d27_handheld_console:SWITCH</footprint>
+      <libsource lib="a5d27_handheld_console" part="SWITCH" description="TL3301NF260QG"/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <property name="ki_description" value="TL3301NF260QG"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>20f11d9b-5caa-4d5d-85f4-297960ca9d6a</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>1V8</value>
+      <footprint>a5d27_handheld_console:1117</footprint>
+      <libsource lib="a5d27_handheld_console" part="1117" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>01ea286c-2ec7-4605-868e-7bfe52c7362e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:ATSAMA5D27-SOM1</footprint>
+      <libsource lib="a5d27_handheld_console" part="ATSAMA5D27-SOM1" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>aa5b3125-09cd-45b4-87ba-4c7782a479d3 a672f9f4-d8a8-4b10-9ecc-cc6df9e9aaa4 5500df9a-af98-4f32-8cbc-106f158bed64 5491640c-45ee-4780-9e9c-b5c346384d17 3248b866-962d-439c-aee6-fc2a33fc7cec 31ce32ee-8e66-421d-b1e6-a72bd6bf8a43</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:ADG849</footprint>
+      <libsource lib="a5d27_handheld_console" part="ADG849" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>e97bba0d-a464-4e20-9be8-253036719273</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:AP3036B</footprint>
+      <libsource lib="a5d27_handheld_console" part="AP3036B" description=""/>
+      <property name="Sheetname" value="1_BOARD"/>
+      <property name="Sheetfile" value="1_BOARD.kicad_sch"/>
+      <sheetpath names="/1_BOARD/" tstamps="/bdc9f2b8-2599-46ca-862b-bcfff9b42cd8/"/>
+      <tstamps>d333f829-2346-4341-a0f9-8ecd4b71aa8f</tstamps>
+    </comp>
+    <comp ref="BAT1">
+      <value>8v</value>
+      <footprint>a5d27_handheld_console:BAT</footprint>
+      <libsource lib="a5d27_handheld_console" part="BAT" description="1048"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="1048"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>2ae4c89b-7a5c-442f-90cf-f289f1dd5120</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>10n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>02a1894d-3020-42f4-984d-715165ca8fff</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>470p</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>657fa6ee-d026-4308-9f96-184a32097ef4</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>1397f99f-4627-4ac8-b9e0-9030780df3af</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>100u</value>
+      <footprint>a5d27_handheld_console:CAP_6.3pix5.3mm</footprint>
+      <datasheet>https://www.devicemart.co.kr/goods/view?no=4249</datasheet>
+      <libsource lib="a5d27_handheld_console" part="CAP_6.3pix5.3mm" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>afaa256e-9db7-426b-87b8-b5225db11d0e</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>78799f5d-c61d-4e60-a9a2-905ad94231bb</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>470n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>13f3a20f-f6a9-4f97-be3c-6dc917040e19</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>afbd9614-855c-4394-a5e0-ae85a0e113ab</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>e714ab14-b60d-4ed1-bf94-2e6822211fbb</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>200p</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>e183574e-5025-4a9b-88ce-051caef567f1</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>e1181607-1cc6-439c-b005-75da5d1f11e2</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f639ad80-20a1-45e1-973b-2d9151a98ae0</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>6e33c993-833f-4f4f-ad31-8b19714fb127</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>100n</value>
+      <footprint>a5d27_handheld_console:C_Ceramic_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Ceramic_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f11fa017-473d-4043-a091-2c705c1435b7</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>10u</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>56864b49-4d79-45c7-bb93-024ef4a9d21f</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>bcb868c2-c870-45aa-a4d5-1c63370e55c6</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>2u2</value>
+      <footprint>a5d27_handheld_console:C_Tantalum_3216</footprint>
+      <libsource lib="a5d27_handheld_console" part="C_Tantalum_3216" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>8b601bcc-382d-43c8-97f7-e04c9f05a1d7</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:CMS06</footprint>
+      <libsource lib="a5d27_handheld_console" part="CMS06" description="SCHOTTKY DIODE"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="SCHOTTKY DIODE"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>2a17102a-e9fb-4de5-b813-83933299364b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:ES2DA-13-F</footprint>
+      <libsource lib="a5d27_handheld_console" part="ES2DA-13-F" description="POWER DIODE"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="POWER DIODE"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f841921e-7dda-4f9f-8543-69ad0758333e</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:ES2DA-13-F</footprint>
+      <libsource lib="a5d27_handheld_console" part="ES2DA-13-F" description="POWER DIODE"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="POWER DIODE"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>32923b75-a928-465f-8502-90cd50344868</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:CMS06</footprint>
+      <libsource lib="a5d27_handheld_console" part="CMS06" description="SCHOTTKY DIODE"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="SCHOTTKY DIODE"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>60c66b97-2a74-4686-88b7-593daeebe79e</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:DEBUG_PORT</footprint>
+      <libsource lib="a5d27_handheld_console" part="DEBUG_PORT" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>e2bc53c8-d9c1-4a58-8753-81bb25d5be50</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>9v</value>
+      <footprint>a5d27_handheld_console:DC_JACK</footprint>
+      <libsource lib="a5d27_handheld_console" part="DC_JACK" description="54-00164"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="54-00164"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>a72be7da-072d-4113-a421-6546d19392db</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>56u</value>
+      <footprint>a5d27_handheld_console:LQH3NPH560MMEL</footprint>
+      <libsource lib="a5d27_handheld_console" part="LQH3NPH560MMEL" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f20d48a7-8ea6-4722-82a5-b79689a8fcce</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>4u7</value>
+      <footprint>a5d27_handheld_console:DFE252012F-4R7M</footprint>
+      <libsource lib="a5d27_handheld_console" part="DFE252012F-4R7M" description="4u7"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="4u7"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>9dfddd2e-1992-498f-827d-d469d63eb3b7</tstamps>
+    </comp>
+    <comp ref="MIC1">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:SPH0645LM4H-B</footprint>
+      <libsource lib="a5d27_handheld_console" part="SPH0645LM4H-B" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>6a0dbb10-af45-4612-8d79-3a94a155a9d6</tstamps>
+    </comp>
+    <comp ref="PAD8">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:PAD</footprint>
+      <libsource lib="a5d27_handheld_console" part="PAD" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>a8b119e3-61ea-4b0c-8c3d-1df48a9ce1d7</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:DMC2400UV</footprint>
+      <libsource lib="a5d27_handheld_console" part="DMC2400UV" description="DMC2400UV"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="DMC2400UV"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>e352ec5c-a91b-42af-bf29-da60eff85ac9</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:DMP3099L</footprint>
+      <libsource lib="a5d27_handheld_console" part="P-FET" description="DMP3099L"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="DMP3099L"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>4d58d9e2-0104-438f-b6e5-253dd1aa464f</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:N-FET</footprint>
+      <libsource lib="a5d27_handheld_console" part="N-FET" description="DMN6140L"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="DMN6140L"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f0920b61-6fb0-4944-b8e5-95ca09e775f2</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:N-FET</footprint>
+      <libsource lib="a5d27_handheld_console" part="N-FET" description="DMN6140L"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="DMN6140L"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f7aefb98-e7df-4ad8-82d8-ecc126a64251</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>10</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>94d36f7b-20d6-4229-9b75-fe14dfa6c31e</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>10</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>96ff5dc9-dc47-4148-bb95-14a4aa017059</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>aec4726c-3115-47d5-b50e-bab0a0c04f55</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>3k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>594fb5e2-9054-4486-b3e8-d60d520da971</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>750</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>326ea7e7-d453-454b-a108-57499a47cc91</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>1k2</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>9efbe6f7-41c6-4339-9005-0ea373eef190</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>d31982be-e594-44ef-ada4-c82f90826086</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>c19fa411-d7b0-4266-b545-94b52dc9ebab</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>51</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f87ca1fa-1451-42c0-b57c-fa21c490a4e1</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>81e81d3f-090b-4856-a8c1-78667995331a</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>3k3</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>823f537d-b699-4d09-8655-40d667d884d4</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>6k8</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>7638a80e-edb7-42d8-af01-0c5736a02dda</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>cccb0e6f-c1c4-4df8-969b-1584be94f215</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>46e88a08-5e1d-4683-af16-1e093fc53956</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>992c48b9-7a62-4331-a10f-d116b0e2546e</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>776429fa-36ef-4d1d-8b11-8babaa66e43d</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>1k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>0ea3518b-2a17-4df2-9845-b7cf503de658</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>10k</value>
+      <footprint>a5d27_handheld_console:R_2012</footprint>
+      <libsource lib="a5d27_handheld_console" part="R_2012" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>27e1e6aa-daa6-4a21-9ec9-7e26cb47ab3e</tstamps>
+    </comp>
+    <comp ref="SPKR1">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:SPEAKER</footprint>
+      <libsource lib="a5d27_handheld_console" part="SPEAKER" description="SP-1609S"/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <property name="ki_description" value="SP-1609S"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>96d7a522-2bd8-4451-aee7-d8202b418be4</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:EVQ-P7A01P</footprint>
+      <libsource lib="a5d27_handheld_console" part="EVQ-P7A01P" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>8750d362-345f-4225-809e-55bb907e3e53</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:EVQ-P7A01P</footprint>
+      <libsource lib="a5d27_handheld_console" part="EVQ-P7A01P" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>fe81e44d-91ac-463a-a774-b7652c98a8e0</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:EVQ-P7A01P</footprint>
+      <libsource lib="a5d27_handheld_console" part="EVQ-P7A01P" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>23b5c7fb-8daa-4453-8821-df647c28b6f5</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:EVQ-P7A01P</footprint>
+      <libsource lib="a5d27_handheld_console" part="EVQ-P7A01P" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>48fb1a74-73b3-4847-b7bb-a8f72a9b5f65</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:EVQ-P7A01P</footprint>
+      <libsource lib="a5d27_handheld_console" part="EVQ-P7A01P" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>2a1f4d37-34b1-4780-b00e-176b78cc6a06</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:R1240N001B</footprint>
+      <libsource lib="a5d27_handheld_console" part="R1240N001B" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>53a9bc75-9adc-4008-b4fa-ed49882588da</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>5V</value>
+      <footprint>a5d27_handheld_console:1117</footprint>
+      <libsource lib="a5d27_handheld_console" part="1117" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>3b17a9db-e246-41dd-b365-37914a819fa8</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>~</value>
+      <footprint>a5d27_handheld_console:ESP32-C3-WROOM-02</footprint>
+      <libsource lib="a5d27_handheld_console" part="ESP32-C3-WROOM-02" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>6eb80d6f-b8a4-416f-aa7c-2ff743ab131e</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>3V3</value>
+      <footprint>a5d27_handheld_console:1117</footprint>
+      <libsource lib="a5d27_handheld_console" part="1117" description=""/>
+      <property name="Sheetname" value="2_BOARD"/>
+      <property name="Sheetfile" value="2_BOARD.kicad_sch"/>
+      <sheetpath names="/2_BOARD/" tstamps="/b1f42402-a97b-4a59-bd0e-982e5790aab5/"/>
+      <tstamps>f3a17b5a-d74f-4d36-9b99-78a800c26155</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="a5d27_handheld_console" part="1117">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">a5d27_handheld_console:1117</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VOUT" type="power_out"/>
+        <pin num="3" name="VIN" type="power_in"/>
+        <pin num="4" name="TAB" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="ADG849">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">a5d27_handheld_console:ADG849</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="input"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="S1" type="bidirectional"/>
+        <pin num="5" name="D" type="bidirectional"/>
+        <pin num="6" name="S2" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="AP3036B">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">a5d27_handheld_console:AP3036B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CTRL" type="input"/>
+        <pin num="2" name="VOUT" type="input"/>
+        <pin num="3" name="VIN" type="input"/>
+        <pin num="4" name="SW" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+        <pin num="6" name="FB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="ATSAMA5D27-SOM1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">a5d27_handheld_console:ATSAMA5D27-SOM1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="PC9" type="bidirectional"/>
+        <pin num="3" name="PC12" type="bidirectional"/>
+        <pin num="4" name="PC13" type="bidirectional"/>
+        <pin num="5" name="PC17" type="bidirectional"/>
+        <pin num="6" name="PC19" type="bidirectional"/>
+        <pin num="7" name="PC21" type="bidirectional"/>
+        <pin num="8" name="PC14" type="bidirectional"/>
+        <pin num="9" name="PC10" type="bidirectional"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="PC22" type="bidirectional"/>
+        <pin num="12" name="PC15" type="bidirectional"/>
+        <pin num="13" name="PC24" type="bidirectional"/>
+        <pin num="14" name="PC20" type="bidirectional"/>
+        <pin num="15" name="VDDISC" type="power_in"/>
+        <pin num="16" name="VDDIN_3V3" type="power_in"/>
+        <pin num="17" name="VDDIN_3V3" type="power_in"/>
+        <pin num="18" name="GND" type="power_in"/>
+        <pin num="19" name="PD21" type="bidirectional"/>
+        <pin num="20" name="PD22" type="bidirectional"/>
+        <pin num="21" name="PD5" type="bidirectional"/>
+        <pin num="22" name="PD6" type="bidirectional"/>
+        <pin num="23" name="PD2" type="bidirectional"/>
+        <pin num="24" name="PD3" type="bidirectional"/>
+        <pin num="25" name="PD7" type="bidirectional"/>
+        <pin num="26" name="GND" type="power_in"/>
+        <pin num="27" name="PD4" type="bidirectional"/>
+        <pin num="28" name="PD8" type="bidirectional"/>
+        <pin num="29" name="PD24" type="bidirectional"/>
+        <pin num="30" name="PD23" type="bidirectional"/>
+        <pin num="31" name="GND" type="power_in"/>
+        <pin num="32" name="RXD" type="input"/>
+        <pin num="33" name="PIOBU1" type="input"/>
+        <pin num="34" name="PD26" type="bidirectional"/>
+        <pin num="35" name="SHDN" type="output"/>
+        <pin num="36" name="ETH_LED0" type="output"/>
+        <pin num="37" name="ETH_RXM" type="bidirectional"/>
+        <pin num="38" name="ETH_RXP" type="bidirectional"/>
+        <pin num="39" name="GND" type="power_in"/>
+        <pin num="40" name="ETH_TXM" type="bidirectional"/>
+        <pin num="41" name="ETH_TXP" type="bidirectional"/>
+        <pin num="42" name="GND" type="power_in"/>
+        <pin num="43" name="GND" type="power_in"/>
+        <pin num="44" name="PIOBU2" type="input"/>
+        <pin num="45" name="PIOBU7" type="input"/>
+        <pin num="46" name="PIOBU5" type="input"/>
+        <pin num="47" name="PIOBU4" type="input"/>
+        <pin num="48" name="PIOBU3" type="input"/>
+        <pin num="49" name="WKUP" type="input"/>
+        <pin num="50" name="GND" type="power_in"/>
+        <pin num="51" name="PD28" type="bidirectional"/>
+        <pin num="52" name="PD29" type="bidirectional"/>
+        <pin num="53" name="PD27" type="bidirectional"/>
+        <pin num="54" name="PD30" type="bidirectional"/>
+        <pin num="55" name="VDDBU" type="power_in"/>
+        <pin num="56" name="GND" type="power_in"/>
+        <pin num="57" name="PD20" type="bidirectional"/>
+        <pin num="58" name="PD19" type="bidirectional"/>
+        <pin num="59" name="PIOBU6" type="input"/>
+        <pin num="60" name="NRST" type="input"/>
+        <pin num="61" name="CLK_AUDIO" type="input"/>
+        <pin num="62" name="GND" type="power_in"/>
+        <pin num="63" name="COMPP" type="input"/>
+        <pin num="64" name="COMPN" type="input"/>
+        <pin num="65" name="VDDSDHC" type="power_in"/>
+        <pin num="66" name="GND" type="power_in"/>
+        <pin num="67" name="USBA_M" type="bidirectional"/>
+        <pin num="68" name="USBA_P" type="bidirectional"/>
+        <pin num="69" name="GND" type="power_in"/>
+        <pin num="70" name="USBB_M" type="bidirectional"/>
+        <pin num="71" name="USBB_P" type="bidirectional"/>
+        <pin num="72" name="GND" type="power_in"/>
+        <pin num="73" name="STROBE" type="bidirectional"/>
+        <pin num="74" name="DATA" type="bidirectional"/>
+        <pin num="75" name="GND" type="power_in"/>
+        <pin num="76" name="PA1" type="bidirectional"/>
+        <pin num="77" name="PA9" type="bidirectional"/>
+        <pin num="78" name="PA8" type="bidirectional"/>
+        <pin num="79" name="PA7" type="bidirectional"/>
+        <pin num="80" name="PA0" type="bidirectional"/>
+        <pin num="81" name="PA3" type="bidirectional"/>
+        <pin num="82" name="PA10" type="bidirectional"/>
+        <pin num="83" name="PA2" type="bidirectional"/>
+        <pin num="84" name="PA4" type="bidirectional"/>
+        <pin num="85" name="PA5" type="bidirectional"/>
+        <pin num="86" name="PA6" type="bidirectional"/>
+        <pin num="87" name="PA11" type="bidirectional"/>
+        <pin num="88" name="GND" type="power_in"/>
+        <pin num="89" name="GND" type="power_in"/>
+        <pin num="90" name="PA27" type="bidirectional"/>
+        <pin num="91" name="PA13" type="bidirectional"/>
+        <pin num="92" name="PA12" type="bidirectional"/>
+        <pin num="93" name="PA31" type="bidirectional"/>
+        <pin num="94" name="PA30" type="bidirectional"/>
+        <pin num="95" name="PA28" type="bidirectional"/>
+        <pin num="96" name="PA29" type="bidirectional"/>
+        <pin num="97" name="PA25" type="bidirectional"/>
+        <pin num="98" name="GND" type="power_in"/>
+        <pin num="99" name="PA24" type="bidirectional"/>
+        <pin num="100" name="PA26" type="bidirectional"/>
+        <pin num="101" name="PA19" type="bidirectional"/>
+        <pin num="102" name="PA23" type="bidirectional"/>
+        <pin num="103" name="PA21" type="bidirectional"/>
+        <pin num="104" name="PA20" type="bidirectional"/>
+        <pin num="105" name="PA18" type="bidirectional"/>
+        <pin num="106" name="PA22" type="bidirectional"/>
+        <pin num="107" name="GND" type="power_in"/>
+        <pin num="108" name="PA17" type="bidirectional"/>
+        <pin num="109" name="PA15" type="bidirectional"/>
+        <pin num="110" name="PD25" type="bidirectional"/>
+        <pin num="111" name="PA14" type="bidirectional"/>
+        <pin num="112" name="PA16" type="bidirectional"/>
+        <pin num="113" name="PD1" type="bidirectional"/>
+        <pin num="114" name="PC27" type="bidirectional"/>
+        <pin num="115" name="PC26" type="bidirectional"/>
+        <pin num="116" name="PC31" type="bidirectional"/>
+        <pin num="117" name="PC28" type="bidirectional"/>
+        <pin num="118" name="PC29" type="bidirectional"/>
+        <pin num="119" name="PB0" type="bidirectional"/>
+        <pin num="120" name="PC30" type="bidirectional"/>
+        <pin num="121" name="PD0" type="bidirectional"/>
+        <pin num="122" name="PB1" type="bidirectional"/>
+        <pin num="123" name="PB3" type="bidirectional"/>
+        <pin num="124" name="PB2" type="bidirectional"/>
+        <pin num="125" name="PB4" type="bidirectional"/>
+        <pin num="126" name="DIS_BOOT" type="input"/>
+        <pin num="127" name="PB6" type="bidirectional"/>
+        <pin num="128" name="PB8" type="bidirectional"/>
+        <pin num="130" name="GND" type="power_in"/>
+        <pin num="131" name="GND" type="power_in"/>
+        <pin num="132" name="PB9" type="bidirectional"/>
+        <pin num="133" name="PB7" type="bidirectional"/>
+        <pin num="134" name="PB5" type="bidirectional"/>
+        <pin num="135" name="PB10" type="bidirectional"/>
+        <pin num="136" name="PC4" type="bidirectional"/>
+        <pin num="137" name="PC5" type="bidirectional"/>
+        <pin num="138" name="PC8" type="bidirectional"/>
+        <pin num="139" name="PC7" type="bidirectional"/>
+        <pin num="140" name="PC6" type="bidirectional"/>
+        <pin num="141" name="PC1" type="bidirectional"/>
+        <pin num="142" name="PC3" type="bidirectional"/>
+        <pin num="143" name="PB31" type="bidirectional"/>
+        <pin num="144" name="PB29" type="bidirectional"/>
+        <pin num="145" name="PC0" type="bidirectional"/>
+        <pin num="146" name="PC2" type="bidirectional"/>
+        <pin num="148" name="PB11" type="bidirectional"/>
+        <pin num="149" name="GND" type="power_in"/>
+        <pin num="150" name="PB14" type="bidirectional"/>
+        <pin num="151" name="PB12" type="bidirectional"/>
+        <pin num="152" name="PB18" type="bidirectional"/>
+        <pin num="154" name="PB16" type="bidirectional"/>
+        <pin num="155" name="PB13" type="bidirectional"/>
+        <pin num="156" name="PB20" type="bidirectional"/>
+        <pin num="157" name="PB17" type="bidirectional"/>
+        <pin num="158" name="PB19" type="bidirectional"/>
+        <pin num="159" name="PB25" type="bidirectional"/>
+        <pin num="160" name="PB23" type="bidirectional"/>
+        <pin num="161" name="PB22" type="bidirectional"/>
+        <pin num="162" name="PB15" type="bidirectional"/>
+        <pin num="163" name="PB27" type="bidirectional"/>
+        <pin num="164" name="PB21" type="bidirectional"/>
+        <pin num="165" name="PB30" type="bidirectional"/>
+        <pin num="166" name="GND" type="power_in"/>
+        <pin num="167" name="PB28" type="bidirectional"/>
+        <pin num="168" name="PB24" type="bidirectional"/>
+        <pin num="169" name="PB26" type="bidirectional"/>
+        <pin num="170" name="PC23" type="bidirectional"/>
+        <pin num="171" name="GND" type="power_in"/>
+        <pin num="172" name="PC18" type="bidirectional"/>
+        <pin num="173" name="PC25" type="bidirectional"/>
+        <pin num="174" name="PC16" type="bidirectional"/>
+        <pin num="175" name="PC11" type="bidirectional"/>
+        <pin num="176" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="BAT">
+      <description>1048</description>
+      <fields>
+        <field name="Reference">BAT</field>
+        <field name="Footprint">a5d27_handheld_console:BAT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="power_out"/>
+        <pin num="2" name="" type="power_out"/>
+        <pin num="3" name="" type="power_out"/>
+        <pin num="4" name="" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="CAP_6.3pix5.3mm">
+      <docs>https://www.devicemart.co.kr/goods/view?no=4249</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Footprint">a5d27_handheld_console:CAP_6.3pix5.3mm</field>
+        <field name="Datasheet">https://www.devicemart.co.kr/goods/view?no=4249</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="CMS06">
+      <description>SCHOTTKY DIODE</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Footprint">a5d27_handheld_console:CMS06</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="CONN_FEMALE">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Footprint">a5d27_handheld_console:CONN_FEMALE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="" type="input"/>
+        <pin num="15" name="" type="input"/>
+        <pin num="16" name="" type="input"/>
+        <pin num="17" name="" type="input"/>
+        <pin num="18" name="" type="input"/>
+        <pin num="19" name="" type="input"/>
+        <pin num="20" name="" type="input"/>
+        <pin num="21" name="" type="input"/>
+        <pin num="22" name="" type="input"/>
+        <pin num="23" name="" type="input"/>
+        <pin num="24" name="" type="input"/>
+        <pin num="25" name="" type="input"/>
+        <pin num="26" name="" type="input"/>
+        <pin num="27" name="" type="input"/>
+        <pin num="28" name="" type="input"/>
+        <pin num="29" name="" type="input"/>
+        <pin num="30" name="" type="input"/>
+        <pin num="31" name="" type="input"/>
+        <pin num="32" name="" type="input"/>
+        <pin num="33" name="" type="input"/>
+        <pin num="34" name="" type="input"/>
+        <pin num="35" name="" type="input"/>
+        <pin num="36" name="" type="input"/>
+        <pin num="37" name="" type="input"/>
+        <pin num="38" name="" type="input"/>
+        <pin num="39" name="" type="input"/>
+        <pin num="40" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="CONN_MALE">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Footprint">a5d27_handheld_console:CONN_MALE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="" type="input"/>
+        <pin num="15" name="" type="input"/>
+        <pin num="16" name="" type="input"/>
+        <pin num="17" name="" type="input"/>
+        <pin num="18" name="" type="input"/>
+        <pin num="19" name="" type="input"/>
+        <pin num="20" name="" type="input"/>
+        <pin num="21" name="" type="input"/>
+        <pin num="22" name="" type="input"/>
+        <pin num="23" name="" type="input"/>
+        <pin num="24" name="" type="input"/>
+        <pin num="25" name="" type="input"/>
+        <pin num="26" name="" type="input"/>
+        <pin num="27" name="" type="input"/>
+        <pin num="28" name="" type="input"/>
+        <pin num="29" name="" type="input"/>
+        <pin num="30" name="" type="input"/>
+        <pin num="31" name="" type="input"/>
+        <pin num="32" name="" type="input"/>
+        <pin num="33" name="" type="input"/>
+        <pin num="34" name="" type="input"/>
+        <pin num="35" name="" type="input"/>
+        <pin num="36" name="" type="input"/>
+        <pin num="37" name="" type="input"/>
+        <pin num="38" name="" type="input"/>
+        <pin num="39" name="" type="input"/>
+        <pin num="40" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="C_Ceramic_2012">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">a5d27_handheld_console:C_Ceramic_2012</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="C_Tantalum_3216">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Footprint">a5d27_handheld_console:C_Tantalum_3216</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="DC_JACK">
+      <description>54-00164</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Footprint">a5d27_handheld_console:DC_JACK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="power_out"/>
+        <pin num="2" name="-" type="power_out"/>
+        <pin num="3" name="DET" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="DEBUG_PORT">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Footprint">a5d27_handheld_console:DEBUG_PORT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="input"/>
+        <pin num="9" name="" type="input"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="input"/>
+        <pin num="12" name="" type="input"/>
+        <pin num="13" name="" type="input"/>
+        <pin num="14" name="" type="input"/>
+        <pin num="15" name="" type="input"/>
+        <pin num="16" name="" type="input"/>
+        <pin num="17" name="" type="input"/>
+        <pin num="18" name="" type="input"/>
+        <pin num="19" name="" type="input"/>
+        <pin num="20" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="DFE252012F-4R7M">
+      <description>4u7</description>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Footprint">a5d27_handheld_console:DFE252012F-4R7M</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="DM3AT">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">DM3AT</field>
+        <field name="Footprint">a5d27_handheld_console:HRS_DM3AT-SF-PEJM5</field>
+        <field name="MF">Hirose</field>
+        <field name="Purchase-URL">https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1223877&amp;manufacturer=Hirose&amp;part_name=DM3AT-SF-PEJM5&amp;search_term=None</field>
+        <field name="Package">None</field>
+        <field name="Price">None</field>
+        <field name="Check_prices">https://www.snapeda.com/parts/DM3AT-SF-PEJM5/Hirose+Electric+Co+Ltd/view-part/?ref=eda</field>
+        <field name="SnapEDA_Link">https://www.snapeda.com/parts/DM3AT-SF-PEJM5/Hirose+Electric+Co+Ltd/view-part/?ref=snap</field>
+        <field name="MP">DM3AT-SF-PEJM5</field>
+        <field name="Availability">In Stock</field>
+        <field name="Description">
+10 (8 + 2) Position Card Connector Secure Digital - microSD™ Surface Mount, Right Angle Gold
+</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="bidirectional"/>
+        <pin num="2" name="CD/DAT3" type="bidirectional"/>
+        <pin num="3" name="CMD" type="bidirectional"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="CLK" type="bidirectional"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="DAT0" type="bidirectional"/>
+        <pin num="8" name="DAT1" type="bidirectional"/>
+        <pin num="P1" name="SHIELD" type="passive"/>
+        <pin num="P2" name="SHIELD" type="passive"/>
+        <pin num="P3" name="SHIELD" type="passive"/>
+        <pin num="P4" name="SHIELD" type="passive"/>
+        <pin num="SWA" name="" type="bidirectional"/>
+        <pin num="SWB" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="DM3CS">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Footprint">a5d27_handheld_console:DM3CS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="DAT2" type="input"/>
+        <pin num="2" name="CD/DAT3" type="input"/>
+        <pin num="3" name="CMD" type="input"/>
+        <pin num="4" name="VDD" type="input"/>
+        <pin num="5" name="CLK" type="input"/>
+        <pin num="6" name="VSS" type="input"/>
+        <pin num="7" name="DAT0" type="input"/>
+        <pin num="8" name="DAT1" type="input"/>
+        <pin num="9" name="CD" type="input"/>
+        <pin num="S" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="DMC2400UV">
+      <description>DMC2400UV</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Footprint">a5d27_handheld_console:DMC2400UV</field>
+      </fields>
+      <pins>
+        <pin num="D1" name="D1" type="input"/>
+        <pin num="D2" name="D2" type="input"/>
+        <pin num="G1" name="G1" type="input"/>
+        <pin num="G2" name="G2" type="input"/>
+        <pin num="S1" name="S1" type="input"/>
+        <pin num="S2" name="S2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="ER-TFT043-7">
+      <description>62684-402100ALF</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Footprint">a5d27_handheld_console:ER-TFT043-7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="LEDK" type="power_in"/>
+        <pin num="2" name="LEDA" type="power_in"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="VDD" type="power_in"/>
+        <pin num="5" name="R0" type="bidirectional"/>
+        <pin num="6" name="R1" type="bidirectional"/>
+        <pin num="7" name="R2" type="bidirectional"/>
+        <pin num="8" name="R3" type="bidirectional"/>
+        <pin num="9" name="R4" type="bidirectional"/>
+        <pin num="10" name="R5" type="bidirectional"/>
+        <pin num="11" name="R6" type="bidirectional"/>
+        <pin num="12" name="R7" type="bidirectional"/>
+        <pin num="13" name="G0" type="bidirectional"/>
+        <pin num="14" name="G1" type="bidirectional"/>
+        <pin num="15" name="G2" type="bidirectional"/>
+        <pin num="16" name="G3" type="bidirectional"/>
+        <pin num="17" name="G4" type="bidirectional"/>
+        <pin num="18" name="G5" type="bidirectional"/>
+        <pin num="19" name="G6" type="bidirectional"/>
+        <pin num="20" name="G7" type="bidirectional"/>
+        <pin num="21" name="B0" type="bidirectional"/>
+        <pin num="22" name="B1" type="bidirectional"/>
+        <pin num="23" name="B2" type="bidirectional"/>
+        <pin num="24" name="B3" type="bidirectional"/>
+        <pin num="25" name="B4" type="bidirectional"/>
+        <pin num="26" name="B5" type="bidirectional"/>
+        <pin num="27" name="B6" type="bidirectional"/>
+        <pin num="28" name="B7" type="bidirectional"/>
+        <pin num="29" name="GND" type="power_in"/>
+        <pin num="30" name="CLK" type="bidirectional"/>
+        <pin num="31" name="DISP" type="bidirectional"/>
+        <pin num="32" name="HSYNC" type="bidirectional"/>
+        <pin num="33" name="VSYNC" type="bidirectional"/>
+        <pin num="34" name="DEN" type="bidirectional"/>
+        <pin num="35" name="NC" type="no_connect"/>
+        <pin num="36" name="GND" type="power_in"/>
+        <pin num="37" name="NC" type="no_connect"/>
+        <pin num="38" name="NC" type="no_connect"/>
+        <pin num="39" name="NC" type="no_connect"/>
+        <pin num="40" name="NC" type="no_connect"/>
+        <pin num="41" name="T_SCL" type="input"/>
+        <pin num="42" name="T_SDA" type="input"/>
+        <pin num="43" name="T_VCC" type="input"/>
+        <pin num="44" name="T_RESET" type="input"/>
+        <pin num="45" name="T_INT" type="input"/>
+        <pin num="46" name="T_GND" type="input"/>
+        <pin num="S" name="S" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="ES2DA-13-F">
+      <description>POWER DIODE</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Footprint">a5d27_handheld_console:ES2DA-13-F</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="ESP32-C3-WROOM-02">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">a5d27_handheld_console:ESP32-C3-WROOM-02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="power_in"/>
+        <pin num="2" name="EN" type="input"/>
+        <pin num="3" name="IO4" type="bidirectional"/>
+        <pin num="4" name="IO5" type="bidirectional"/>
+        <pin num="5" name="IO6" type="bidirectional"/>
+        <pin num="6" name="IO7" type="bidirectional"/>
+        <pin num="7" name="IO8" type="bidirectional"/>
+        <pin num="8" name="IO9" type="bidirectional"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="IO10" type="bidirectional"/>
+        <pin num="11" name="RXD" type="bidirectional"/>
+        <pin num="12" name="TXD" type="bidirectional"/>
+        <pin num="13" name="IO18" type="bidirectional"/>
+        <pin num="14" name="IO19" type="bidirectional"/>
+        <pin num="15" name="IO3" type="bidirectional"/>
+        <pin num="16" name="IO2" type="bidirectional"/>
+        <pin num="17" name="IO1" type="bidirectional"/>
+        <pin num="18" name="IO0" type="bidirectional"/>
+        <pin num="19" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="EVQ-P7A01P">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Footprint">a5d27_handheld_console:EVQ-P7A01P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="LED_2012">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Footprint">a5d27_handheld_console:LED_2012</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="LQH3NPH560MMEL">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Footprint">a5d27_handheld_console:LQH3NPH560MMEL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="MMBT3904">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Footprint">a5d27_handheld_console:MMBT3904</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="output"/>
+        <pin num="3" name="C" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="N-FET">
+      <description>DMN6140L</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Footprint">a5d27_handheld_console:N-FET</field>
+      </fields>
+      <pins>
+        <pin num="D" name="" type="input"/>
+        <pin num="G" name="" type="input"/>
+        <pin num="S" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="NLCV25T-220K-PF">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">22u</field>
+        <field name="Footprint">a5d27_handheld_console:NLCV25T-220K-PF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="P-FET">
+      <description>DMP3099L</description>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Footprint">a5d27_handheld_console:DMP3099L</field>
+      </fields>
+      <pins>
+        <pin num="D" name="" type="input"/>
+        <pin num="G" name="" type="input"/>
+        <pin num="S" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="PAD">
+      <fields>
+        <field name="Reference">PAD</field>
+        <field name="Footprint">a5d27_handheld_console:PAD</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="R1240N001B">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">a5d27_handheld_console:R1240N001B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CE" type="input"/>
+        <pin num="2" name="VIN" type="power_in"/>
+        <pin num="3" name="LX" type="power_out"/>
+        <pin num="4" name="BST" type="input"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="VFB" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="R_2012">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Footprint">a5d27_handheld_console:R_2012</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="SPEAKER">
+      <description>SP-1609S</description>
+      <fields>
+        <field name="Reference">SPKR</field>
+        <field name="Footprint">a5d27_handheld_console:SPEAKER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="SPH0645LM4H-B">
+      <fields>
+        <field name="Reference">MIC</field>
+        <field name="Footprint">a5d27_handheld_console:SPH0645LM4H-B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="WS" type="input"/>
+        <pin num="2" name="SELECT" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="BCLK" type="input"/>
+        <pin num="5" name="VDD" type="input"/>
+        <pin num="6" name="DO" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="SWITCH">
+      <description>TL3301NF260QG</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Footprint">a5d27_handheld_console:SWITCH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="a5d27_handheld_console" part="USB_B">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Footprint">a5d27_handheld_console:USB_B</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="input"/>
+        <pin num="2" name="GND" type="input"/>
+        <pin num="3" name="DP" type="input"/>
+        <pin num="4" name="DM" type="input"/>
+        <pin num="5" name="NC" type="input"/>
+        <pin num="S" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="a5d27_handheld_console">
+      <uri>/media/suya/playground/a5d27_handheld_console/a5d27_handheld_console_pcb/a5d27_handheld_console.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/1_BOARD/BAT_VOLTAGE">
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="J1" pin="16" pintype="input"/>
+      <node ref="U2" pin="58" pinfunction="PD19" pintype="bidirectional"/>
+    </net>
+    <net code="2" name="/1_BOARD/BTN_1">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="PC17" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="/1_BOARD/BTN_2">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="172" pinfunction="PC18" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="/1_BOARD/BTN_3">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="PC19" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="/1_BOARD/BTN_4">
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="PC20" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="/1_BOARD/BTN_5">
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="PC21" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="/1_BOARD/BTN_6">
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="PC22" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="/1_BOARD/BTN_7">
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="170" pinfunction="PC23" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="/1_BOARD/BTN_8">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="PC24" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="/1_BOARD/BTN_9">
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="SW9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="173" pinfunction="PC25" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="/1_BOARD/BTN_10">
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="SW10" pin="3" pintype="passive"/>
+      <node ref="U2" pin="115" pinfunction="PC26" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="/1_BOARD/BTN_11">
+      <node ref="J1" pin="17" pintype="input"/>
+      <node ref="U2" pin="21" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="/1_BOARD/BTN_12">
+      <node ref="J1" pin="18" pintype="input"/>
+      <node ref="U2" pin="22" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="/1_BOARD/BTN_13">
+      <node ref="J1" pin="19" pintype="input"/>
+      <node ref="U2" pin="25" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="/1_BOARD/BTN_14">
+      <node ref="J1" pin="20" pintype="input"/>
+      <node ref="U2" pin="28" pinfunction="PD8" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="/1_BOARD/CLASSD_R0">
+      <node ref="J1" pin="22" pintype="input"/>
+      <node ref="U2" pin="122" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="/1_BOARD/CLASSD_R1">
+      <node ref="J1" pin="23" pintype="input"/>
+      <node ref="U2" pin="124" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="/1_BOARD/DIS_BOOT">
+      <node ref="J1" pin="21" pintype="input"/>
+      <node ref="U2" pin="126" pinfunction="DIS_BOOT" pintype="input"/>
+    </net>
+    <net code="19" name="/1_BOARD/ESP32_CS">
+      <node ref="J1" pin="33" pintype="input"/>
+      <node ref="U2" pin="51" pinfunction="PD28" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="/1_BOARD/ESP32_DR">
+      <node ref="J1" pin="29" pintype="input"/>
+      <node ref="U2" pin="29" pinfunction="PD24" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="/1_BOARD/ESP32_HNDSK">
+      <node ref="J1" pin="28" pintype="input"/>
+      <node ref="U2" pin="54" pinfunction="PD30" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/1_BOARD/ESP32_MISO">
+      <node ref="J1" pin="31" pintype="input"/>
+      <node ref="U2" pin="53" pinfunction="PD27" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/1_BOARD/ESP32_MOSI">
+      <node ref="J1" pin="32" pintype="input"/>
+      <node ref="U2" pin="34" pinfunction="PD26" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/1_BOARD/ESP32_RST">
+      <node ref="J1" pin="27" pintype="input"/>
+      <node ref="U2" pin="52" pinfunction="PD29" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/1_BOARD/ESP32_SCLK">
+      <node ref="J1" pin="30" pintype="input"/>
+      <node ref="U2" pin="110" pinfunction="PD25" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/1_BOARD/I2SCK1">
+      <node ref="J1" pin="24" pintype="input"/>
+      <node ref="U2" pin="162" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/1_BOARD/I2SDI1">
+      <node ref="J1" pin="26" pintype="input"/>
+      <node ref="U2" pin="157" pinfunction="PB17" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/1_BOARD/I2SWS1">
+      <node ref="J1" pin="25" pintype="input"/>
+      <node ref="U2" pin="154" pinfunction="PB16" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/1_BOARD/LCD_CLK">
+      <node ref="J9" pin="30" pinfunction="CLK" pintype="bidirectional"/>
+      <node ref="U2" pin="139" pinfunction="PC7" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/1_BOARD/LCD_DATA_0">
+      <node ref="J9" pin="21" pinfunction="B0" pintype="bidirectional"/>
+      <node ref="U2" pin="148" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/1_BOARD/LCD_DATA_1">
+      <node ref="J9" pin="22" pinfunction="B1" pintype="bidirectional"/>
+      <node ref="U2" pin="151" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/1_BOARD/LCD_DATA_2">
+      <node ref="J9" pin="23" pinfunction="B2" pintype="bidirectional"/>
+      <node ref="U2" pin="155" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/1_BOARD/LCD_DATA_3">
+      <node ref="J9" pin="24" pinfunction="B3" pintype="bidirectional"/>
+      <node ref="U2" pin="175" pinfunction="PC11" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/1_BOARD/LCD_DATA_4">
+      <node ref="J9" pin="25" pinfunction="B4" pintype="bidirectional"/>
+      <node ref="U2" pin="3" pinfunction="PC12" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/1_BOARD/LCD_DATA_5">
+      <node ref="J9" pin="26" pinfunction="B5" pintype="bidirectional"/>
+      <node ref="U2" pin="4" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/1_BOARD/LCD_DATA_6">
+      <node ref="J9" pin="27" pinfunction="B6" pintype="bidirectional"/>
+      <node ref="U2" pin="8" pinfunction="PC14" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/1_BOARD/LCD_DATA_7">
+      <node ref="J9" pin="28" pinfunction="B7" pintype="bidirectional"/>
+      <node ref="U2" pin="12" pinfunction="PC15" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/1_BOARD/LCD_DATA_8">
+      <node ref="J9" pin="13" pinfunction="G0" pintype="bidirectional"/>
+      <node ref="U2" pin="158" pinfunction="PB19" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/1_BOARD/LCD_DATA_9">
+      <node ref="J9" pin="14" pinfunction="G1" pintype="bidirectional"/>
+      <node ref="U2" pin="156" pinfunction="PB20" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/1_BOARD/LCD_DATA_10">
+      <node ref="J9" pin="15" pinfunction="G2" pintype="bidirectional"/>
+      <node ref="U2" pin="164" pinfunction="PB21" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/1_BOARD/LCD_DATA_11">
+      <node ref="J9" pin="16" pinfunction="G3" pintype="bidirectional"/>
+      <node ref="U2" pin="161" pinfunction="PB22" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/1_BOARD/LCD_DATA_12">
+      <node ref="J9" pin="17" pinfunction="G4" pintype="bidirectional"/>
+      <node ref="U2" pin="160" pinfunction="PB23" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/1_BOARD/LCD_DATA_13">
+      <node ref="J9" pin="18" pinfunction="G5" pintype="bidirectional"/>
+      <node ref="U2" pin="168" pinfunction="PB24" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/1_BOARD/LCD_DATA_14">
+      <node ref="J9" pin="19" pinfunction="G6" pintype="bidirectional"/>
+      <node ref="U2" pin="159" pinfunction="PB25" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/1_BOARD/LCD_DATA_15">
+      <node ref="J9" pin="20" pinfunction="G7" pintype="bidirectional"/>
+      <node ref="U2" pin="169" pinfunction="PB26" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/1_BOARD/LCD_DATA_16">
+      <node ref="J9" pin="5" pinfunction="R0" pintype="bidirectional"/>
+      <node ref="U2" pin="163" pinfunction="PB27" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/1_BOARD/LCD_DATA_17">
+      <node ref="J9" pin="6" pinfunction="R1" pintype="bidirectional"/>
+      <node ref="U2" pin="167" pinfunction="PB28" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/1_BOARD/LCD_DATA_18">
+      <node ref="J9" pin="7" pinfunction="R2" pintype="bidirectional"/>
+      <node ref="U2" pin="144" pinfunction="PB29" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/1_BOARD/LCD_DATA_19">
+      <node ref="J9" pin="8" pinfunction="R3" pintype="bidirectional"/>
+      <node ref="U2" pin="165" pinfunction="PB30" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/1_BOARD/LCD_DATA_20">
+      <node ref="J9" pin="9" pinfunction="R4" pintype="bidirectional"/>
+      <node ref="U2" pin="143" pinfunction="PB31" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/1_BOARD/LCD_DATA_21">
+      <node ref="J9" pin="10" pinfunction="R5" pintype="bidirectional"/>
+      <node ref="U2" pin="145" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="/1_BOARD/LCD_DATA_22">
+      <node ref="J9" pin="11" pinfunction="R6" pintype="bidirectional"/>
+      <node ref="U2" pin="141" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="/1_BOARD/LCD_DATA_23">
+      <node ref="J9" pin="12" pinfunction="R7" pintype="bidirectional"/>
+      <node ref="U2" pin="146" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="/1_BOARD/LCD_DEN">
+      <node ref="J9" pin="34" pinfunction="DEN" pintype="bidirectional"/>
+      <node ref="U2" pin="138" pinfunction="PC8" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="/1_BOARD/LCD_DISP">
+      <node ref="J9" pin="31" pinfunction="DISP" pintype="bidirectional"/>
+      <node ref="U2" pin="136" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="/1_BOARD/LCD_HSYNC">
+      <node ref="J9" pin="32" pinfunction="HSYNC" pintype="bidirectional"/>
+      <node ref="U2" pin="140" pinfunction="PC6" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="/1_BOARD/LCD_VSYNC">
+      <node ref="J9" pin="33" pinfunction="VSYNC" pintype="bidirectional"/>
+      <node ref="U2" pin="137" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="59" name="/1_BOARD/LED_1">
+      <node ref="Q1" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="U2" pin="114" pinfunction="PC27" pintype="bidirectional"/>
+    </net>
+    <net code="60" name="/1_BOARD/LED_2">
+      <node ref="Q2" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="U2" pin="117" pinfunction="PC28" pintype="bidirectional"/>
+    </net>
+    <net code="61" name="/1_BOARD/LED_3">
+      <node ref="Q3" pin="1" pinfunction="B" pintype="input"/>
+      <node ref="U2" pin="118" pinfunction="PC29" pintype="bidirectional"/>
+    </net>
+    <net code="62" name="/1_BOARD/SAMA5D27_ETH_RXM">
+      <node ref="J1" pin="11" pintype="input"/>
+      <node ref="U2" pin="37" pinfunction="ETH_RXM" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="/1_BOARD/SAMA5D27_ETH_RXP">
+      <node ref="J1" pin="12" pintype="input"/>
+      <node ref="U2" pin="38" pinfunction="ETH_RXP" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="/1_BOARD/SAMA5D27_ETH_TXM">
+      <node ref="J1" pin="13" pintype="input"/>
+      <node ref="U2" pin="40" pinfunction="ETH_TXM" pintype="bidirectional"/>
+    </net>
+    <net code="65" name="/1_BOARD/SAMA5D27_ETH_TXP">
+      <node ref="J1" pin="14" pintype="input"/>
+      <node ref="U2" pin="41" pinfunction="ETH_TXP" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="/1_BOARD/SAMA5D27_SHDN">
+      <node ref="J1" pin="7" pintype="input"/>
+      <node ref="U2" pin="35" pinfunction="SHDN" pintype="output"/>
+    </net>
+    <net code="67" name="/1_BOARD/SAMA5D27_URXD">
+      <node ref="J1" pin="9" pintype="input"/>
+      <node ref="U2" pin="23" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="/1_BOARD/SAMA5D27_UTXD">
+      <node ref="J1" pin="10" pintype="input"/>
+      <node ref="U2" pin="24" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="69" name="/1_BOARD/SAMA5D27_WKUP">
+      <node ref="J1" pin="8" pintype="input"/>
+      <node ref="U2" pin="113" pinfunction="PD1" pintype="bidirectional"/>
+      <node ref="U2" pin="49" pinfunction="WKUP" pintype="input"/>
+    </net>
+    <net code="70" name="/1_BOARD/SDMMC0_CD">
+      <node ref="J5" pin="9" pinfunction="CD" pintype="input"/>
+      <node ref="PAD7" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="U2" pin="91" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="71" name="/1_BOARD/SDMMC0_CLK">
+      <node ref="J5" pin="5" pinfunction="CLK" pintype="input"/>
+      <node ref="U2" pin="80" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="72" name="/1_BOARD/SDMMC0_CMD">
+      <node ref="J5" pin="3" pinfunction="CMD" pintype="input"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="U2" pin="76" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="73" name="/1_BOARD/SDMMC0_DAT0">
+      <node ref="J5" pin="7" pinfunction="DAT0" pintype="input"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U2" pin="83" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="74" name="/1_BOARD/SDMMC0_DAT1">
+      <node ref="J5" pin="8" pinfunction="DAT1" pintype="input"/>
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="U2" pin="81" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="75" name="/1_BOARD/SDMMC0_DAT2">
+      <node ref="J5" pin="1" pinfunction="DAT2" pintype="input"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="U2" pin="84" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="76" name="/1_BOARD/SDMMC0_DAT3">
+      <node ref="J5" pin="2" pinfunction="CD/DAT3" pintype="input"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="U2" pin="85" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="77" name="/1_BOARD/SDMMC1_CD">
+      <node ref="J4" pin="SWB" pintype="bidirectional"/>
+      <node ref="PAD2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U2" pin="94" pinfunction="PA30" pintype="bidirectional"/>
+    </net>
+    <net code="78" name="/1_BOARD/SDMMC1_CK">
+      <node ref="J4" pin="5" pinfunction="CLK" pintype="bidirectional"/>
+      <node ref="U2" pin="106" pinfunction="PA22" pintype="bidirectional"/>
+    </net>
+    <net code="79" name="/1_BOARD/SDMMC1_CMD">
+      <node ref="J4" pin="3" pinfunction="CMD" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U2" pin="95" pinfunction="PA28" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="/1_BOARD/SDMMC1_DAT0">
+      <node ref="J4" pin="7" pinfunction="DAT0" pintype="bidirectional"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U2" pin="105" pinfunction="PA18" pintype="bidirectional"/>
+    </net>
+    <net code="81" name="/1_BOARD/SDMMC1_DAT1">
+      <node ref="J4" pin="8" pinfunction="DAT1" pintype="bidirectional"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U2" pin="101" pinfunction="PA19" pintype="bidirectional"/>
+    </net>
+    <net code="82" name="/1_BOARD/SDMMC1_DAT2">
+      <node ref="J4" pin="1" pinfunction="DAT2" pintype="bidirectional"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U2" pin="104" pinfunction="PA20" pintype="bidirectional"/>
+    </net>
+    <net code="83" name="/1_BOARD/SDMMC1_DAT3">
+      <node ref="J4" pin="2" pinfunction="CD/DAT3" pintype="bidirectional"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U2" pin="103" pinfunction="PA21" pintype="bidirectional"/>
+    </net>
+    <net code="84" name="/1_BOARD/TOUCH_INT">
+      <node ref="J9" pin="45" pinfunction="T_INT" pintype="input"/>
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="U2" pin="30" pinfunction="PD23" pintype="bidirectional"/>
+    </net>
+    <net code="85" name="/1_BOARD/TOUCH_RST">
+      <node ref="J9" pin="44" pinfunction="T_RESET" pintype="input"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="U2" pin="57" pinfunction="PD20" pintype="bidirectional"/>
+    </net>
+    <net code="86" name="/1_BOARD/TOUCH_SCL">
+      <node ref="J9" pin="41" pinfunction="T_SCL" pintype="input"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="PD22" pintype="bidirectional"/>
+    </net>
+    <net code="87" name="/1_BOARD/TOUCH_SDA">
+      <node ref="J9" pin="42" pinfunction="T_SDA" pintype="input"/>
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="PD21" pintype="bidirectional"/>
+    </net>
+    <net code="88" name="/1_BOARD/USBD_DM">
+      <node ref="J3" pin="4" pinfunction="DM" pintype="input"/>
+      <node ref="PAD4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="67" pinfunction="USBA_M" pintype="bidirectional"/>
+    </net>
+    <net code="89" name="/1_BOARD/USBD_DP">
+      <node ref="J3" pin="3" pinfunction="DP" pintype="input"/>
+      <node ref="PAD3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U2" pin="68" pinfunction="USBA_P" pintype="bidirectional"/>
+    </net>
+    <net code="90" name="/1_BOARD/USBD_VBUS_DET">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="135" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="91" name="/1_BOARD/VDD_SDMMC0">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="PAD5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="U2" pin="65" pinfunction="VDDSDHC" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="D" pintype="bidirectional"/>
+    </net>
+    <net code="92" name="/1_BOARD/~{IS_VCC_BAT}">
+      <node ref="J1" pin="15" pintype="input"/>
+      <node ref="U2" pin="116" pinfunction="PC31" pintype="bidirectional"/>
+    </net>
+    <net code="93" name="/2_BOARD/BAT_VOLTAGE">
+      <node ref="J2" pin="16" pintype="input"/>
+      <node ref="R46" pin="1" pintype="passive"/>
+      <node ref="R47" pin="2" pintype="passive"/>
+    </net>
+    <net code="94" name="/2_BOARD/BTN_11">
+      <node ref="J2" pin="17" pintype="input"/>
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="SW12" pin="3" pintype="input"/>
+    </net>
+    <net code="95" name="/2_BOARD/BTN_12">
+      <node ref="J2" pin="18" pintype="input"/>
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="SW13" pin="3" pintype="input"/>
+    </net>
+    <net code="96" name="/2_BOARD/BTN_13">
+      <node ref="J2" pin="19" pintype="input"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="SW14" pin="3" pintype="input"/>
+    </net>
+    <net code="97" name="/2_BOARD/BTN_14">
+      <node ref="J2" pin="20" pintype="input"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="SW15" pin="3" pintype="input"/>
+    </net>
+    <net code="98" name="/2_BOARD/CLASSD_R0">
+      <node ref="J2" pin="22" pintype="input"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="99" name="/2_BOARD/CLASSD_R1">
+      <node ref="J2" pin="23" pintype="input"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="100" name="/2_BOARD/DIS_BOOT">
+      <node ref="J2" pin="21" pintype="input"/>
+      <node ref="J7" pin="3" pintype="input"/>
+    </net>
+    <net code="101" name="/2_BOARD/ESP32_BOOT">
+      <node ref="J7" pin="6" pintype="input"/>
+      <node ref="U7" pin="8" pinfunction="IO9" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="/2_BOARD/ESP32_CS">
+      <node ref="J2" pin="33" pintype="input"/>
+      <node ref="U7" pin="10" pinfunction="IO10" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="/2_BOARD/ESP32_DR">
+      <node ref="J2" pin="29" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="IO4" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="/2_BOARD/ESP32_HNDSK">
+      <node ref="J2" pin="28" pintype="input"/>
+      <node ref="U7" pin="15" pinfunction="IO3" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="/2_BOARD/ESP32_MISO">
+      <node ref="J2" pin="31" pintype="input"/>
+      <node ref="U7" pin="16" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="/2_BOARD/ESP32_MOSI">
+      <node ref="J2" pin="32" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="IO7" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="/2_BOARD/ESP32_RST">
+      <node ref="J2" pin="27" pintype="input"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="108" name="/2_BOARD/ESP32_RXD">
+      <node ref="J7" pin="4" pintype="input"/>
+      <node ref="U7" pin="11" pinfunction="RXD" pintype="bidirectional"/>
+    </net>
+    <net code="109" name="/2_BOARD/ESP32_SCLK">
+      <node ref="J2" pin="30" pintype="input"/>
+      <node ref="U7" pin="5" pinfunction="IO6" pintype="bidirectional"/>
+    </net>
+    <net code="110" name="/2_BOARD/ESP32_TXD">
+      <node ref="J7" pin="5" pintype="input"/>
+      <node ref="U7" pin="12" pinfunction="TXD" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="/2_BOARD/I2SCK1">
+      <node ref="J2" pin="24" pintype="input"/>
+      <node ref="MIC1" pin="4" pinfunction="BCLK" pintype="input"/>
+    </net>
+    <net code="112" name="/2_BOARD/I2SDI1">
+      <node ref="J2" pin="26" pintype="input"/>
+      <node ref="MIC1" pin="6" pinfunction="DO" pintype="input"/>
+    </net>
+    <net code="113" name="/2_BOARD/I2SWS1">
+      <node ref="J2" pin="25" pintype="input"/>
+      <node ref="MIC1" pin="1" pinfunction="WS" pintype="input"/>
+    </net>
+    <net code="114" name="/2_BOARD/SAMA5D27_ETH_RXM">
+      <node ref="J2" pin="11" pintype="input"/>
+      <node ref="J7" pin="7" pintype="input"/>
+    </net>
+    <net code="115" name="/2_BOARD/SAMA5D27_ETH_RXP">
+      <node ref="J2" pin="12" pintype="input"/>
+      <node ref="J7" pin="8" pintype="input"/>
+    </net>
+    <net code="116" name="/2_BOARD/SAMA5D27_ETH_TXM">
+      <node ref="J2" pin="13" pintype="input"/>
+      <node ref="J7" pin="9" pintype="input"/>
+    </net>
+    <net code="117" name="/2_BOARD/SAMA5D27_ETH_TXP">
+      <node ref="J2" pin="14" pintype="input"/>
+      <node ref="J7" pin="10" pintype="input"/>
+    </net>
+    <net code="118" name="/2_BOARD/SAMA5D27_SHDN">
+      <node ref="J2" pin="7" pintype="input"/>
+      <node ref="Q6" pin="G" pintype="input"/>
+    </net>
+    <net code="119" name="/2_BOARD/SAMA5D27_URXD">
+      <node ref="J2" pin="9" pintype="input"/>
+      <node ref="J7" pin="1" pintype="input"/>
+    </net>
+    <net code="120" name="/2_BOARD/SAMA5D27_UTXD">
+      <node ref="J2" pin="10" pintype="input"/>
+      <node ref="J7" pin="2" pintype="input"/>
+    </net>
+    <net code="121" name="/2_BOARD/SAMA5D27_WKUP">
+      <node ref="J2" pin="8" pintype="input"/>
+      <node ref="Q7" pin="D" pintype="input"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+    </net>
+    <net code="122" name="/2_BOARD/~{IS_VCC_BAT}">
+      <node ref="J2" pin="15" pintype="input"/>
+      <node ref="J8" pin="3" pinfunction="DET" pintype="power_out"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+    </net>
+    <net code="123" name="1V8_1">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="PAD1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U1" pin="2" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U1" pin="4" pinfunction="TAB" pintype="power_out"/>
+      <node ref="U3" pin="6" pinfunction="S2" pintype="bidirectional"/>
+    </net>
+    <net code="124" name="3V3A_2">
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="MIC1" pin="5" pinfunction="VDD" pintype="input"/>
+      <node ref="U8" pin="2" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U8" pin="4" pinfunction="TAB" pintype="power_out"/>
+    </net>
+    <net code="125" name="3V3_1">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="input"/>
+      <node ref="J1" pin="4" pintype="input"/>
+      <node ref="J4" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J5" pin="4" pinfunction="VDD" pintype="input"/>
+      <node ref="J9" pin="4" pinfunction="VDD" pintype="power_in"/>
+      <node ref="J9" pin="43" pinfunction="T_VCC" pintype="input"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="VDDISC" pintype="power_in"/>
+      <node ref="U2" pin="16" pinfunction="VDDIN_3V3" pintype="power_in"/>
+      <node ref="U2" pin="17" pinfunction="VDDIN_3V3" pintype="power_in"/>
+      <node ref="U2" pin="55" pinfunction="VDDBU" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="S1" pintype="bidirectional"/>
+    </net>
+    <net code="126" name="3V3_2">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="input"/>
+      <node ref="J2" pin="4" pintype="input"/>
+      <node ref="J7" pin="17" pintype="input"/>
+      <node ref="J7" pin="18" pintype="input"/>
+      <node ref="L3" pin="2" pintype="passive"/>
+      <node ref="PAD8" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="R53" pin="2" pintype="passive"/>
+      <node ref="U7" pin="1" pinfunction="3V3" pintype="power_in"/>
+    </net>
+    <net code="127" name="5VA_2">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="D4" pin="2" pintype="passive"/>
+      <node ref="Q4" pin="S2" pinfunction="S2" pintype="input"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="VOUT" pintype="power_out"/>
+      <node ref="U6" pin="4" pinfunction="TAB" pintype="power_out"/>
+    </net>
+    <net code="128" name="GND_1">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="5" pintype="input"/>
+      <node ref="J1" pin="6" pintype="input"/>
+      <node ref="J3" pin="2" pinfunction="GND" pintype="input"/>
+      <node ref="J4" pin="6" pinfunction="VSS" pintype="power_in"/>
+      <node ref="J4" pin="P1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="P2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="P3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="P4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J4" pin="SWA" pintype="bidirectional"/>
+      <node ref="J5" pin="6" pinfunction="VSS" pintype="input"/>
+      <node ref="J5" pin="S" pinfunction="SHIELD" pintype="input"/>
+      <node ref="J9" pin="29" pinfunction="GND" pintype="power_in"/>
+      <node ref="J9" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="J9" pin="36" pinfunction="GND" pintype="power_in"/>
+      <node ref="J9" pin="46" pinfunction="T_GND" pintype="input"/>
+      <node ref="J9" pin="S" pinfunction="S" pintype="power_in"/>
+      <node ref="Q1" pin="2" pinfunction="E" pintype="output"/>
+      <node ref="Q2" pin="2" pinfunction="E" pintype="output"/>
+      <node ref="Q3" pin="2" pinfunction="E" pintype="output"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="3" pintype="passive"/>
+      <node ref="SW1" pin="4" pintype="passive"/>
+      <node ref="SW10" pin="1" pintype="passive"/>
+      <node ref="SW10" pin="2" pintype="passive"/>
+      <node ref="SW2" pin="3" pintype="passive"/>
+      <node ref="SW2" pin="4" pintype="passive"/>
+      <node ref="SW3" pin="3" pintype="passive"/>
+      <node ref="SW3" pin="4" pintype="passive"/>
+      <node ref="SW4" pin="3" pintype="passive"/>
+      <node ref="SW4" pin="4" pintype="passive"/>
+      <node ref="SW5" pin="3" pintype="passive"/>
+      <node ref="SW5" pin="4" pintype="passive"/>
+      <node ref="SW6" pin="3" pintype="passive"/>
+      <node ref="SW6" pin="4" pintype="passive"/>
+      <node ref="SW7" pin="3" pintype="passive"/>
+      <node ref="SW7" pin="4" pintype="passive"/>
+      <node ref="SW8" pin="3" pintype="passive"/>
+      <node ref="SW8" pin="4" pintype="passive"/>
+      <node ref="SW9" pin="3" pintype="passive"/>
+      <node ref="SW9" pin="4" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="107" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="130" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="131" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="149" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="166" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="171" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="176" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="18" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="26" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="31" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="39" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="42" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="43" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="50" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="56" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="62" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="66" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="69" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="72" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="75" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="88" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="89" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="98" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="GND" pintype="power_in"/>
+      <node ref="U4" pin="5" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="129" name="GND_2">
+      <node ref="BAT1" pin="3" pintype="power_out"/>
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="D7" pin="1" pintype="passive"/>
+      <node ref="J2" pin="5" pintype="input"/>
+      <node ref="J2" pin="6" pintype="input"/>
+      <node ref="J7" pin="19" pintype="input"/>
+      <node ref="J7" pin="20" pintype="input"/>
+      <node ref="J8" pin="2" pinfunction="-" pintype="power_out"/>
+      <node ref="MIC1" pin="2" pinfunction="SELECT" pintype="input"/>
+      <node ref="MIC1" pin="3" pinfunction="GND" pintype="input"/>
+      <node ref="Q4" pin="S1" pinfunction="S1" pintype="input"/>
+      <node ref="Q6" pin="S" pintype="input"/>
+      <node ref="Q7" pin="S" pintype="input"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="R46" pin="2" pintype="passive"/>
+      <node ref="SPKR1" pin="2" pintype="passive"/>
+      <node ref="SW11" pin="1" pintype="input"/>
+      <node ref="SW11" pin="2" pintype="input"/>
+      <node ref="SW12" pin="1" pintype="input"/>
+      <node ref="SW12" pin="2" pintype="input"/>
+      <node ref="SW13" pin="1" pintype="input"/>
+      <node ref="SW13" pin="2" pintype="input"/>
+      <node ref="SW14" pin="1" pintype="input"/>
+      <node ref="SW14" pin="2" pintype="input"/>
+      <node ref="SW15" pin="1" pintype="input"/>
+      <node ref="SW15" pin="2" pintype="input"/>
+      <node ref="U5" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="19" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="9" pinfunction="GND" pintype="power_in"/>
+      <node ref="U8" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="130" name="Net-(BAT1-Pad1)">
+      <node ref="BAT1" pin="1" pintype="power_out"/>
+      <node ref="D5" pin="1" pintype="input"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+    </net>
+    <net code="131" name="Net-(BAT1-Pad2)">
+      <node ref="BAT1" pin="2" pintype="power_out"/>
+      <node ref="BAT1" pin="4" pintype="power_out"/>
+    </net>
+    <net code="132" name="Net-(C24-Pad1)">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="D4" pin="1" pintype="passive"/>
+      <node ref="Q4" pin="G2" pinfunction="G2" pintype="input"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="133" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="134" name="Net-(C27-Pad1)">
+      <node ref="C27" pin="1" pintype="input"/>
+      <node ref="Q4" pin="D1" pinfunction="D1" pintype="input"/>
+      <node ref="Q4" pin="D2" pinfunction="D2" pintype="input"/>
+    </net>
+    <net code="135" name="Net-(C27-Pad2)">
+      <node ref="C27" pin="2" pintype="input"/>
+      <node ref="L2" pin="1" pintype="input"/>
+    </net>
+    <net code="136" name="Net-(C29-Pad1)">
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="L2" pin="2" pintype="input"/>
+      <node ref="SPKR1" pin="1" pintype="passive"/>
+    </net>
+    <net code="137" name="Net-(C30-Pad2)">
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+    </net>
+    <net code="138" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="139" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+    </net>
+    <net code="140" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+    </net>
+    <net code="141" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pintype="input"/>
+      <node ref="D6" pin="2" pintype="input"/>
+      <node ref="Q5" pin="S" pintype="input"/>
+      <node ref="R43" pin="2" pintype="passive"/>
+    </net>
+    <net code="142" name="Net-(J3-VCC)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="VCC" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="143" name="Net-(J8-+)">
+      <node ref="D6" pin="1" pintype="input"/>
+      <node ref="J8" pin="1" pinfunction="+" pintype="power_out"/>
+    </net>
+    <net code="144" name="Net-(J9-LEDA)">
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="J9" pin="2" pinfunction="LEDA" pintype="power_in"/>
+      <node ref="PAD6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="U4" pin="2" pinfunction="VOUT" pintype="input"/>
+    </net>
+    <net code="145" name="Net-(J9-LEDK)">
+      <node ref="J9" pin="1" pinfunction="LEDK" pintype="power_in"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="146" name="Net-(Q1-C)">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="147" name="Net-(Q2-C)">
+      <node ref="D2" pin="2" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="148" name="Net-(Q3-C)">
+      <node ref="D3" pin="2" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="149" name="Net-(Q4-PadG1)">
+      <node ref="Q4" pin="G1" pinfunction="G1" pintype="input"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+    </net>
+    <net code="150" name="Net-(Q5-PadG)">
+      <node ref="Q5" pin="G" pintype="input"/>
+      <node ref="Q6" pin="D" pintype="input"/>
+      <node ref="Q7" pin="G" pintype="input"/>
+      <node ref="R43" pin="1" pintype="passive"/>
+      <node ref="SW11" pin="3" pintype="input"/>
+      <node ref="SW11" pin="4" pintype="input"/>
+    </net>
+    <net code="151" name="Net-(R39-Pad1)">
+      <node ref="R39" pin="1" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+    </net>
+    <net code="152" name="Net-(U2A-PA11)">
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="U2" pin="87" pinfunction="PA11" pintype="bidirectional"/>
+      <node ref="U3" pin="1" pinfunction="IN" pintype="input"/>
+    </net>
+    <net code="153" name="Net-(U2A-PA12)">
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U2" pin="92" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="154" name="Net-(U4-SW)">
+      <node ref="L1" pin="2" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="SW" pintype="input"/>
+    </net>
+    <net code="155" name="Net-(U5-BST)">
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="BST" pintype="input"/>
+    </net>
+    <net code="156" name="Net-(U5-LX)">
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="D7" pin="2" pintype="passive"/>
+      <node ref="L3" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="LX" pintype="power_out"/>
+    </net>
+    <net code="157" name="Net-(U5-VFB)">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="VFB" pintype="input"/>
+    </net>
+    <net code="158" name="VCC_1">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="input"/>
+      <node ref="J1" pin="2" pintype="input"/>
+      <node ref="L1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U4" pin="1" pinfunction="CTRL" pintype="input"/>
+      <node ref="U4" pin="3" pinfunction="VIN" pintype="input"/>
+    </net>
+    <net code="159" name="VCC_2">
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="J2" pin="1" pintype="input"/>
+      <node ref="J2" pin="2" pintype="input"/>
+      <node ref="J7" pin="15" pintype="input"/>
+      <node ref="J7" pin="16" pintype="input"/>
+      <node ref="Q5" pin="D" pintype="input"/>
+      <node ref="U5" pin="1" pinfunction="CE" pintype="input"/>
+      <node ref="U5" pin="2" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U6" pin="3" pinfunction="VIN" pintype="power_in"/>
+      <node ref="U8" pin="3" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="160" name="unconnected-(J1-Pad34)">
+      <node ref="J1" pin="34" pintype="input+no_connect"/>
+    </net>
+    <net code="161" name="unconnected-(J1-Pad35)">
+      <node ref="J1" pin="35" pintype="input+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(J1-Pad36)">
+      <node ref="J1" pin="36" pintype="input+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(J1-Pad37)">
+      <node ref="J1" pin="37" pintype="input+no_connect"/>
+    </net>
+    <net code="164" name="unconnected-(J1-Pad38)">
+      <node ref="J1" pin="38" pintype="input+no_connect"/>
+    </net>
+    <net code="165" name="unconnected-(J1-Pad39)">
+      <node ref="J1" pin="39" pintype="input+no_connect"/>
+    </net>
+    <net code="166" name="unconnected-(J1-Pad40)">
+      <node ref="J1" pin="40" pintype="input+no_connect"/>
+    </net>
+    <net code="167" name="unconnected-(J2-Pad34)">
+      <node ref="J2" pin="34" pintype="input+no_connect"/>
+    </net>
+    <net code="168" name="unconnected-(J2-Pad35)">
+      <node ref="J2" pin="35" pintype="input+no_connect"/>
+    </net>
+    <net code="169" name="unconnected-(J2-Pad36)">
+      <node ref="J2" pin="36" pintype="input+no_connect"/>
+    </net>
+    <net code="170" name="unconnected-(J2-Pad37)">
+      <node ref="J2" pin="37" pintype="input+no_connect"/>
+    </net>
+    <net code="171" name="unconnected-(J2-Pad38)">
+      <node ref="J2" pin="38" pintype="input+no_connect"/>
+    </net>
+    <net code="172" name="unconnected-(J2-Pad39)">
+      <node ref="J2" pin="39" pintype="input+no_connect"/>
+    </net>
+    <net code="173" name="unconnected-(J2-Pad40)">
+      <node ref="J2" pin="40" pintype="input+no_connect"/>
+    </net>
+    <net code="174" name="unconnected-(J3-NC-Pad5)">
+      <node ref="J3" pin="5" pinfunction="NC" pintype="input+no_connect"/>
+    </net>
+    <net code="175" name="unconnected-(J3-SHIELD-PadS)">
+      <node ref="J3" pin="S" pinfunction="SHIELD" pintype="input+no_connect"/>
+    </net>
+    <net code="176" name="unconnected-(J7-Pad11)">
+      <node ref="J7" pin="11" pintype="input+no_connect"/>
+    </net>
+    <net code="177" name="unconnected-(J7-Pad12)">
+      <node ref="J7" pin="12" pintype="input+no_connect"/>
+    </net>
+    <net code="178" name="unconnected-(J7-Pad13)">
+      <node ref="J7" pin="13" pintype="input+no_connect"/>
+    </net>
+    <net code="179" name="unconnected-(J7-Pad14)">
+      <node ref="J7" pin="14" pintype="input+no_connect"/>
+    </net>
+    <net code="180" name="unconnected-(J9-NC-Pad35)">
+      <node ref="J9" pin="35" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="181" name="unconnected-(J9-NC-Pad37)">
+      <node ref="J9" pin="37" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="182" name="unconnected-(J9-NC-Pad38)">
+      <node ref="J9" pin="38" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="183" name="unconnected-(J9-NC-Pad39)">
+      <node ref="J9" pin="39" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="184" name="unconnected-(J9-NC-Pad40)">
+      <node ref="J9" pin="40" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="185" name="unconnected-(SW1-Pad1)">
+      <node ref="SW1" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="186" name="unconnected-(SW2-Pad1)">
+      <node ref="SW2" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="187" name="unconnected-(SW3-Pad1)">
+      <node ref="SW3" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="188" name="unconnected-(SW4-Pad1)">
+      <node ref="SW4" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="189" name="unconnected-(SW5-Pad1)">
+      <node ref="SW5" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="190" name="unconnected-(SW6-Pad1)">
+      <node ref="SW6" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="191" name="unconnected-(SW7-Pad1)">
+      <node ref="SW7" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="192" name="unconnected-(SW8-Pad1)">
+      <node ref="SW8" pin="1" pintype="passive+no_connect"/>
+    </net>
+    <net code="193" name="unconnected-(SW9-Pad2)">
+      <node ref="SW9" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="194" name="unconnected-(SW10-Pad4)">
+      <node ref="SW10" pin="4" pintype="passive+no_connect"/>
+    </net>
+    <net code="195" name="unconnected-(SW12-Pad4)">
+      <node ref="SW12" pin="4" pintype="input+no_connect"/>
+    </net>
+    <net code="196" name="unconnected-(SW13-Pad4)">
+      <node ref="SW13" pin="4" pintype="input+no_connect"/>
+    </net>
+    <net code="197" name="unconnected-(SW14-Pad4)">
+      <node ref="SW14" pin="4" pintype="input+no_connect"/>
+    </net>
+    <net code="198" name="unconnected-(SW15-Pad4)">
+      <node ref="SW15" pin="4" pintype="input+no_connect"/>
+    </net>
+    <net code="199" name="unconnected-(U2A-PA6-Pad86)">
+      <node ref="U2" pin="86" pinfunction="PA6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="200" name="unconnected-(U2A-PA7-Pad79)">
+      <node ref="U2" pin="79" pinfunction="PA7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="201" name="unconnected-(U2A-PA8-Pad78)">
+      <node ref="U2" pin="78" pinfunction="PA8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="202" name="unconnected-(U2A-PA9-Pad77)">
+      <node ref="U2" pin="77" pinfunction="PA9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="203" name="unconnected-(U2A-PA10-Pad82)">
+      <node ref="U2" pin="82" pinfunction="PA10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="204" name="unconnected-(U2A-PA14-Pad111)">
+      <node ref="U2" pin="111" pinfunction="PA14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="205" name="unconnected-(U2A-PA15-Pad109)">
+      <node ref="U2" pin="109" pinfunction="PA15" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="206" name="unconnected-(U2A-PA16-Pad112)">
+      <node ref="U2" pin="112" pinfunction="PA16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="207" name="unconnected-(U2A-PA17-Pad108)">
+      <node ref="U2" pin="108" pinfunction="PA17" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="208" name="unconnected-(U2A-PA23-Pad102)">
+      <node ref="U2" pin="102" pinfunction="PA23" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="209" name="unconnected-(U2A-PA24-Pad99)">
+      <node ref="U2" pin="99" pinfunction="PA24" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="210" name="unconnected-(U2A-PA25-Pad97)">
+      <node ref="U2" pin="97" pinfunction="PA25" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="211" name="unconnected-(U2A-PA26-Pad100)">
+      <node ref="U2" pin="100" pinfunction="PA26" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="212" name="unconnected-(U2A-PA27-Pad90)">
+      <node ref="U2" pin="90" pinfunction="PA27" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="213" name="unconnected-(U2A-PA29-Pad96)">
+      <node ref="U2" pin="96" pinfunction="PA29" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="214" name="unconnected-(U2A-PA31-Pad93)">
+      <node ref="U2" pin="93" pinfunction="PA31" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="215" name="unconnected-(U2B-PB0-Pad119)">
+      <node ref="U2" pin="119" pinfunction="PB0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="216" name="unconnected-(U2B-PB3-Pad123)">
+      <node ref="U2" pin="123" pinfunction="PB3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="217" name="unconnected-(U2B-PB4-Pad125)">
+      <node ref="U2" pin="125" pinfunction="PB4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="218" name="unconnected-(U2B-PB5-Pad134)">
+      <node ref="U2" pin="134" pinfunction="PB5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="219" name="unconnected-(U2B-PB6-Pad127)">
+      <node ref="U2" pin="127" pinfunction="PB6" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="220" name="unconnected-(U2B-PB7-Pad133)">
+      <node ref="U2" pin="133" pinfunction="PB7" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="221" name="unconnected-(U2B-PB8-Pad128)">
+      <node ref="U2" pin="128" pinfunction="PB8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="222" name="unconnected-(U2B-PB9-Pad132)">
+      <node ref="U2" pin="132" pinfunction="PB9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="223" name="unconnected-(U2B-PB14-Pad150)">
+      <node ref="U2" pin="150" pinfunction="PB14" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="224" name="unconnected-(U2B-PB18-Pad152)">
+      <node ref="U2" pin="152" pinfunction="PB18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="225" name="unconnected-(U2C-PC3-Pad142)">
+      <node ref="U2" pin="142" pinfunction="PC3" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="226" name="unconnected-(U2C-PC9-Pad2)">
+      <node ref="U2" pin="2" pinfunction="PC9" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="227" name="unconnected-(U2C-PC10-Pad9)">
+      <node ref="U2" pin="9" pinfunction="PC10" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="228" name="unconnected-(U2C-PC16-Pad174)">
+      <node ref="U2" pin="174" pinfunction="PC16" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="229" name="unconnected-(U2C-PC30-Pad120)">
+      <node ref="U2" pin="120" pinfunction="PC30" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="230" name="unconnected-(U2D-PD0-Pad121)">
+      <node ref="U2" pin="121" pinfunction="PD0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="231" name="unconnected-(U2D-PD4-Pad27)">
+      <node ref="U2" pin="27" pinfunction="PD4" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="232" name="unconnected-(U2F-CLK_AUDIO-Pad61)">
+      <node ref="U2" pin="61" pinfunction="CLK_AUDIO" pintype="input+no_connect"/>
+    </net>
+    <net code="233" name="unconnected-(U2F-COMPN-Pad64)">
+      <node ref="U2" pin="64" pinfunction="COMPN" pintype="input+no_connect"/>
+    </net>
+    <net code="234" name="unconnected-(U2F-COMPP-Pad63)">
+      <node ref="U2" pin="63" pinfunction="COMPP" pintype="input+no_connect"/>
+    </net>
+    <net code="235" name="unconnected-(U2F-DATA-Pad74)">
+      <node ref="U2" pin="74" pinfunction="DATA" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="236" name="unconnected-(U2F-ETH_LED0-Pad36)">
+      <node ref="U2" pin="36" pinfunction="ETH_LED0" pintype="output+no_connect"/>
+    </net>
+    <net code="237" name="unconnected-(U2F-NRST-Pad60)">
+      <node ref="U2" pin="60" pinfunction="NRST" pintype="input+no_connect"/>
+    </net>
+    <net code="238" name="unconnected-(U2F-PIOBU1-Pad33)">
+      <node ref="U2" pin="33" pinfunction="PIOBU1" pintype="input+no_connect"/>
+    </net>
+    <net code="239" name="unconnected-(U2F-PIOBU2-Pad44)">
+      <node ref="U2" pin="44" pinfunction="PIOBU2" pintype="input+no_connect"/>
+    </net>
+    <net code="240" name="unconnected-(U2F-PIOBU3-Pad48)">
+      <node ref="U2" pin="48" pinfunction="PIOBU3" pintype="input+no_connect"/>
+    </net>
+    <net code="241" name="unconnected-(U2F-PIOBU4-Pad47)">
+      <node ref="U2" pin="47" pinfunction="PIOBU4" pintype="input+no_connect"/>
+    </net>
+    <net code="242" name="unconnected-(U2F-PIOBU5-Pad46)">
+      <node ref="U2" pin="46" pinfunction="PIOBU5" pintype="input+no_connect"/>
+    </net>
+    <net code="243" name="unconnected-(U2F-PIOBU6-Pad59)">
+      <node ref="U2" pin="59" pinfunction="PIOBU6" pintype="input+no_connect"/>
+    </net>
+    <net code="244" name="unconnected-(U2F-PIOBU7-Pad45)">
+      <node ref="U2" pin="45" pinfunction="PIOBU7" pintype="input+no_connect"/>
+    </net>
+    <net code="245" name="unconnected-(U2F-RXD-Pad32)">
+      <node ref="U2" pin="32" pinfunction="RXD" pintype="input+no_connect"/>
+    </net>
+    <net code="246" name="unconnected-(U2F-STROBE-Pad73)">
+      <node ref="U2" pin="73" pinfunction="STROBE" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="247" name="unconnected-(U2F-USBB_M-Pad70)">
+      <node ref="U2" pin="70" pinfunction="USBB_M" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="248" name="unconnected-(U2F-USBB_P-Pad71)">
+      <node ref="U2" pin="71" pinfunction="USBB_P" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="249" name="unconnected-(U7-IO0-Pad18)">
+      <node ref="U7" pin="18" pinfunction="IO0" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="250" name="unconnected-(U7-IO1-Pad17)">
+      <node ref="U7" pin="17" pinfunction="IO1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="251" name="unconnected-(U7-IO5-Pad4)">
+      <node ref="U7" pin="4" pinfunction="IO5" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="252" name="unconnected-(U7-IO8-Pad7)">
+      <node ref="U7" pin="7" pinfunction="IO8" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="253" name="unconnected-(U7-IO18-Pad13)">
+      <node ref="U7" pin="13" pinfunction="IO18" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="254" name="unconnected-(U7-IO19-Pad14)">
+      <node ref="U7" pin="14" pinfunction="IO19" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
