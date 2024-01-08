@@ -1,0 +1,7 @@
+board_name=sama5d27_handheld
+bootargs=console=ttyS0,115200 root=/dev/mmcblk0p2 rw rootwait rootfstype=ext4 atmel.pm_modes=standby,ulp1 video=Unknown-1:800x480-24
+bootcmd=fatload mmc 0:1 0x22000000 zImage; fatload mmc 0:1 0x23000000 sama5d27_handheld.dtb; bootz 0x22000000 - 0x23000000;
+bootdelay=3
+stderr=serial@ffffee00
+stdin=serial@ffffee00
+stdout=serial@ffffee00
